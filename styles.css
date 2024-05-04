@@ -20,11 +20,12 @@
   text-transform: uppercase;
   text-align: center;
 }
+
 .form-input {
-  margin-bottom: 8px;
+  margin: 4px 0 8px;
 }
 .form-label {
-  margin-bottom: 4px;
+  margin-bottom: 0;
 }
 .form-input {
   width: 100%;
